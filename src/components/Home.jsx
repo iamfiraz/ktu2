@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <div className="hom">
             <div className="logo">
-                <img src="images/logo5.jpg" className='background' />
+                <img src="https://i.postimg.cc/QCzXL0Dt/logo5.jpg" className='background' />
             </div>
             <div className='full-cards'>
                 <a href='cncst'>
@@ -146,5 +146,6 @@ const Home = () => {
         </div>
     )
 }
+
 
 export default Home
